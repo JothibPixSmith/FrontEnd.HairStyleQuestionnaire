@@ -37,3 +37,4 @@ Each `Section1`–`Section8` component receives `{ form, onChange }` and is pure
 ## Version warnings
 
 This project uses **Next.js 16** and **React 19** — both have breaking API changes from common training-data versions. Before using any Next.js API, check `node_modules/next/dist/docs/`. **Tailwind v4** also has a completely different configuration model from v3 (no `tailwind.config.js`; configured via `postcss.config.mjs`).
+
